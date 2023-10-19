@@ -31,7 +31,7 @@
         <gpg.skip>true</gpg.skip>
         <javadoc.skip>true</javadoc.skip>
         <CodeCacheSize>1g</CodeCacheSize>
-        <spark.version.compile>3.0.2</spark.version.compile>
+        <spark.version.compile>3.3.3</spark.version.compile>
         <scalatest.version>3.0.8</scalatest.version>
         <test.exclude.tags/>
         <test.include.tags/>
