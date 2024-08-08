@@ -60,7 +60,7 @@ require (
 	golang.org/x/net v0.1.0
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	golang.org/x/time v0.0.0-20220411224347-583f2d630306
-	google.golang.org/grpc v1.46.2
+	google.golang.org/grpc v1.56.3
 )
 
 require (
